@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.local
+
+# API keys / secrets
+key.txt
+config.json
+
+# Models
+*.pkl
+*.joblib
+
+# OS files
+.DS_Store

@@ -1,0 +1,19 @@
+Machine Learning Fundamentals
+
+Supervised Learning involves training models with labeled data. Common algorithms include:
+- Linear Regression: For continuous predictions
+- Logistic Regression: For binary classification
+- Decision Trees: Interpretable models
+- Random Forests: Ensemble of decision trees
+
+Deep Learning uses neural networks with multiple layers. Key concepts:
+- Backpropagation: Algorithm for training neural networks
+- Activation Functions: ReLU, Sigmoid, Tanh
+- Convolutional Neural Networks: For image processing
+- Recurrent Neural Networks: For sequence data
+
+Feature Engineering is crucial for model performance. Techniques include:
+- Normalization: Scaling features to 0-1 range
+- Standardization: Zero mean, unit variance
+- One-hot encoding: Categorical variables
+- Principal Component Analysis: Dimensionality reduction
